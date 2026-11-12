@@ -1,3 +1,7 @@
+<!-- project-overview:start -->
+> **项目简介**：改善 ChatGPT 长对话阅读体验的浏览器扩展，提供回答折叠、提问时间轴和快捷导航。
+<!-- project-overview:end -->
+
 # ThreadPilot for ChatGPT
 
 ThreadPilot is a focused browser extension for long ChatGPT conversations.
